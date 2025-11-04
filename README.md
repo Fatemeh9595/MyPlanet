@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+🌌 My Planet – 3D Interactive Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to My Planet — a fully interactive 3D planet I created using Three.js! 🌍✨
+This project is a personal exploration of 3D web graphics and interactive animations on the browser. Rotate, zoom, and explore your own little world directly from your screen!
 
-## Available Scripts
+🛠 Tech Stack
 
-In the project directory, you can run:
+This project is built using modern web technologies for immersive 3D experiences:
 
-### `npm start`
+Three.js – for rendering 3D objects, animations, and lighting effects ⚡
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React.js – for managing the UI and integrating Three.js components ⚛️
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+CSS3 – for styling overlays, layout, and responsiveness 🎨
 
-### `npm test`
+Vercel – for deployment and hosting your interactive 3D planet 🌐
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🎯 Key Features
 
-### `npm run build`
+3D Planet Rendering – a fully interactive 3D planet with rotation and zoom 🪐
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Dynamic Lighting & Shadows – realistic lighting to enhance immersion 💡
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Camera Controls – rotate and zoom around your planet for full exploration 🔄
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Smooth Animations – continuous rotation and subtle effects for realism ✨
 
-### `npm run eject`
+Responsive Design – works on desktop and mobile browsers 🖥️📱
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🚀 How to Run Locally :
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone the repository 📂
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Run npm install to install all dependencies ⚙️
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Run npm start to launch the website in your browser 🌐
